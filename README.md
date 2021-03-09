@@ -1,3 +1,4 @@
+# The Eudyptula Challenge
 Welcome to the Eudyptula Challenge!
 
 This "challenge" is a series of Linux kernel programming exercises
