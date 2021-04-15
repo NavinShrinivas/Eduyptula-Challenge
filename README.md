@@ -1,5 +1,13 @@
+
+# Custom Eduyptula challenge
+
+Me being the learner I am. I dunno much of c. YET!...so task -01 is going to be me
+doing various c excersises.
+
 # The Eudyptula Challenge
-#Instructions
+
+
+Instructions
 Welcome to the Eudyptula Challenge!
 
 This "challenge" is a series of Linux kernel programming exercises
