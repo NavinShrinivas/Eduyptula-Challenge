@@ -1,8 +1,16 @@
 
 # Custom Eduyptula challenge
 
-Me being the learner I am. I dunno much of c. YET!...so task -01 is going to be me
+Me being the learner I am. I dunno much of c. YET!...so task-01 is going to be me
 doing various c excersises.
+
+1:
+
+Write a program to print "Hello, World!".
+
+2:
+
+Make 1 variable of each type mentioned in the comments and print them
 
 # The Eudyptula Challenge
 
