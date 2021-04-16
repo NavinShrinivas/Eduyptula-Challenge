@@ -4,13 +4,16 @@
 Me being the learner I am. I dunno much of c. YET!...so task-01 is going to be me
 doing various c excersises.
 
+I am kinda following this ofc modded and made better:
+    https://www.learn-c.org/en/
 1:
 
 Write a program to print "Hello, World!".
 
 2:
 
-Make 1 variable of each type mentioned in the comments and print them
+Make 1 variable of each type mentioned in the comments and mention the 
+byte alloc and format specifire for each variable
 
 # The Eudyptula Challenge
 
