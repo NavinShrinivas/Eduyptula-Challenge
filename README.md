@@ -6,6 +6,10 @@ doing various c excersises.
 
 I am kinda following this ofc modded and made better:
     https://www.learn-c.org/en/
+    and also
+    https://www.programiz.com/c-programming/c-input-output
+
+    
 1:
 
 Write a program to print "Hello, World!".
@@ -14,6 +18,14 @@ Write a program to print "Hello, World!".
 
 Make 1 variable of each type mentioned in the comments and mention the 
 byte alloc and format specifire for each variable
+
+3:
+
+Write a program to input two integer number and print their sum.
+
+4:
+
+Write a program to input two floating point number and print their sum.
 
 # The Eudyptula Challenge
 
