@@ -4,10 +4,10 @@
 Me being the learner I am. I dunno much of c. YET!...so task-01 is going to be me
 doing various c excersises.
 
-I am kinda following this ofc modded and made better:
-    https://www.learn-c.org/en/
-    and also
-    https://www.programiz.com/c-programming/c-input-output
+I am kinda following this ofc modded and made better:<br>
+    https://www.learn-c.org/en/ <br>
+    and also <br>
+    https://www.programiz.com/c-programming/c-input-output <br><br>
 
     
 1:
