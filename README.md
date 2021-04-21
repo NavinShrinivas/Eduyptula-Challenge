@@ -7,7 +7,7 @@ doing various c excersises.
 I am kinda following this ofc modded and made better:<br>
     https://www.learn-c.org/en/ <br>
     and also <br>
-    https://www.proptimgramiz.com/c-programming/ <br><br>
+    https://www.programiz.com/c-programming/ <br><br>
 
     
 1:
