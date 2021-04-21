@@ -7,7 +7,7 @@ doing various c excersises.
 I am kinda following this ofc modded and made better:<br>
     https://www.learn-c.org/en/ <br>
     and also <br>
-    https://www.programiz.com/c-programming/ <br><br>
+    https://www.proptimgramiz.com/c-programming/ <br><br>
 
     
 1:
@@ -26,6 +26,21 @@ Write a program to input two integer number and print their sum.
 4:
 
 Write a program to input two floating point number and print their sum.
+
+5:
+
+5 is a text file containing various things that you must refresh in your memory [MUST SEE]
+
+6:
+
+Write a program to return the ascii values given a input of char
+
+7:
+
+Write a program about return types of opertators [really nice program] [MUST SEE]
+
+8:
+
 
 # The Eudyptula Challenge
 

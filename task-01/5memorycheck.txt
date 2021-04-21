@@ -1,0 +1,28 @@
+Escape Sequences:
+
+\b  Backspace
+\n  newline
+\r  return
+\t  horizontal tab
+\v  vertical tab
+
+\ helps us "escape" the typical behaviour of a compiler and helps us get unique properties
+but \ can also help us print ' when the entire output is enclosed in '
+
+like:
+'hello \' world' will print hello ' world
+
+
+Format Specifiers:
+
+%d,&i : int
+%u : unsigned int
+%c : char
+%li,%ld : long int
+%lu : unsigned int
+%lli,%lld : long long int
+%llu : unsigned long long int
+%hd : short int
+%hu : unsigned short int
+%f : float
+%lf : double
