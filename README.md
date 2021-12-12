@@ -106,6 +106,12 @@ As the Big Penguin says, "Have fun!"
 This is Task 01 of the Eudyptula Challenge
 ------------------------------------------
 
+Used Refs : 
+
+- [this](https://girishjoshi.io/post/linux-kernel-module-hello-world/)
+- chapter-2 of [this](https://tldp.org/LDP/lkmpg/2.6/html/x181.html)
+
+
 Write a Linux kernel module, and stand-alone Makefile, that when loaded
 prints to the kernel debug log level, "Hello World!"  Be sure to make
 the module able to be unloaded as well.
