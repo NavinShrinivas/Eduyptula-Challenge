@@ -1,1 +1,0 @@
-cmd_/home/navin/eduyptula-challenge/task01/Module.symvers := sed 's/ko$$/o/' /home/navin/eduyptula-challenge/task01/modules.order | scripts/mod/modpost  -a   -o /home/navin/eduyptula-challenge/task01/Module.symvers -e -i Module.symvers  -N -T -

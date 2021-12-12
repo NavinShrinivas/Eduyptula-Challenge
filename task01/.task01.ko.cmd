@@ -1,1 +1,0 @@
-cmd_/home/navin/eduyptula-challenge/task01/task01.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/navin/eduyptula-challenge/task01/task01.ko /home/navin/eduyptula-challenge/task01/task01.o /home/navin/eduyptula-challenge/task01/task01.mod.o;  true
