@@ -135,6 +135,10 @@ forgotten that yet, you are better than that.
 This is Task 02 of the Eudyptula Challenge
 ------------------------------------------
 
+Used Refs : 
+
+- Really well written : [this](https://wiki.linuxquestions.org/wiki/How_to_build_and_install_your_own_Linux_kernel)
+
 Now that you have written your first kernel module, it's time to take
 off the training wheels and move on to building a custom kernel.  No
 more distro kernels for you.  For this task you must run your own
